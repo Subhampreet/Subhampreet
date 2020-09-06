@@ -1,5 +1,6 @@
 # Hi Amigos, I'm Subhampreet! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
+
 A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
 
@@ -42,6 +43,8 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 
 ### Show some ❤️ by starring some of the repositories!
+
+<a href="https://dev.to/subhampreet"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
 
 </div>
 
