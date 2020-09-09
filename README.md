@@ -7,7 +7,6 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 ![age](https://img.shields.io/badge/age-21-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
-![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=Subhampreet.github.profile)
 
 
 - 🌱 I’m currently learning NodeJs, Python and ReactJs
