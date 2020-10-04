@@ -8,6 +8,7 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
 
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m currently learning NodeJs, Python and ReactJs
 - 👯 I’m looking to collaborate on Python projects and Basic Web Dev stuff
