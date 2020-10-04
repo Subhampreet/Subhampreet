@@ -1,4 +1,4 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![](https://github.com/Subhampreet/Subhampreet/master/media/header_.png)
 
 # Hi Amigos, I'm Subhampreet! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   
