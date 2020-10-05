@@ -21,7 +21,7 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 ### 👨‍💻 Languages and Tools
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fiverr.com%2Fsimonjuhl994%2Fsdwdwdwwqwfhijwwfwefh-eif-wehfiwehf-i-hwei&psig=AOvVaw2YLDcGd60EOwrgE1Tmz5Ja&ust=1601979429085000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCy79OcnewCFQAAAAAdAAAAABAa" width="40%" align="right">
+<img src="https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/mern.png" width="45%" align="right">
 
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -45,9 +45,9 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 
 ### 💡 Goals for 2020
-- Complete #100DaysOfCode challenge
-- Build 30+ projects 
-- Become skilled in JavaScript
+- Complete #100DaysOfCode challenge 
+- Build 50+ projects 
+- Become skilled in JavaScript, ReactJS and ML
 - Complete coding bootcamp by October 2020
 
 ### 🏆 Github Status
