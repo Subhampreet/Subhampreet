@@ -21,30 +21,34 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 ### 👨‍💻 Languages and Tools
 
+<div align="center">
+  
+<img src="https://raw.githubusercontent.com/Subhampreet/Anupreetadas/main/logos/c%2B%2B.jpg" height="60" width="60">
+<img src="https://raw.githubusercontent.com/Subhampreet/Anupreetadas/main/logos/python.jpg" height="60" width="60">
+<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/android.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/html.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/ML.jpg?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/JS.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/django.jpg?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/node.jpeg?raw=true" height="60" width="60">
 
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<br>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<br>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/react.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/php.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/sql.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/postgres.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/git.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/vs.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/bootstrap.png" height="60" width="60">
+<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
 
+</div>
 
-
-<br />
+<br >
 
 
 ### 💡 Goals for 2020
-
-<img src="https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/mern.png" width="37%"  align="right">
 
 - Complete #100DaysOfCode challenge 
 - Build 50+ projects 
