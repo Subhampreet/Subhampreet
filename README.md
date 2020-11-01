@@ -33,6 +33,8 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 <img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/django.jpg?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/node.jpeg?raw=true" height="60" width="60">
 
+<br>
+
 <img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/react.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/php.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/sql.png?raw=true" height="60" width="60">
