@@ -25,25 +25,25 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/Subhampreet/Anupreetadas/main/logos/c%2B%2B.jpg" height="60" width="60">
-<img src="https://raw.githubusercontent.com/Subhampreet/Anupreetadas/main/logos/python.jpg" height="60" width="60">
-<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/android.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/html.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/css.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/ML.jpg?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/JS.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/django.jpg?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/node.jpeg?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/c++.jpg?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/python.jpg?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/ML.jpg?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/android.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/django.jpg?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/node.jpeg?raw=true" height="60" width="60">
 
 <br>
 
-<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/react.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/php.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/sql.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/postgres.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/git.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/vs.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/bootstrap.png" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/react.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/php.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/sql.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/postgres.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
 <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
 
