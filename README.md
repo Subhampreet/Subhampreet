@@ -21,7 +21,6 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 ### 👨‍💻 Languages and Tools
 
-<img src="https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/mern.png" width="47%"  align="right">
 
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -42,10 +41,7 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 <br />
 
-<h3 align="left"> 🏆 Github Status</h3>
-
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Subhampreet&show_icons=true&hide_border=true" >
-
+<img src="https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/mern.png" width="47%"  align="right">
 
 ### 💡 Goals for 2020
 
@@ -54,10 +50,11 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 - Become skilled in JavaScript, ReactJS and ML
 - Complete coding bootcamp by October 2020
 
-<br>
+### 🏆 Github Status
+
+<img  src="https://github-readme-stats.vercel.app/api?username=Subhampreet&show_icons=true&hide_border=true" >
 
 [![HitCount](http://hits.dwyl.com/Subhampreet/Subhampreet.svg)](http://hits.dwyl.com/Subhampreet/Subhampreet)
-
 
 <div align="center">
 
