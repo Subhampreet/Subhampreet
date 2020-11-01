@@ -41,9 +41,10 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 <br />
 
-<img src="https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/mern.png" width="47%"  align="right">
 
 ### 💡 Goals for 2020
+
+<img src="https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/mern.png" width="37%"  align="right">
 
 - Complete #100DaysOfCode challenge 
 - Build 50+ projects 
