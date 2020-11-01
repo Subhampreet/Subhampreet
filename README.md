@@ -49,7 +49,7 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 <br >
 
-<img src="https://user-images.githubusercontent.com/61475220/97093903-6d8aee80-166d-11eb-8799-13e119380d2b.jpg" width="37%" align=right>
+<img src="https://user-images.githubusercontent.com/61475220/97093903-6d8aee80-166d-11eb-8799-13e119380d2b.jpg" width="45%" align=right>
 
 ### 💡 Goals for 2020
 
@@ -60,7 +60,7 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 ### 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Subhampreet&show_icons=true&hide_border=true" >
+<img  src="https://github-readme-stats.vercel.app/api?username=Subhampreet&show_icons=true&hide_border=true" width="50%" >
 
 [![HitCount](http://hits.dwyl.com/Subhampreet/Subhampreet.svg)](http://hits.dwyl.com/Subhampreet/Subhampreet)
 
