@@ -42,20 +42,22 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 <br />
 
+<h3 align="left"> 🏆 Github Status</h3>
+
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=Subhampreet&show_icons=true&hide_border=true" >
 
 
 ### 💡 Goals for 2020
+
 - Complete #100DaysOfCode challenge 
 - Build 50+ projects 
 - Become skilled in JavaScript, ReactJS and ML
 - Complete coding bootcamp by October 2020
 
-### 🏆 Github Status
-
-
-![Subhampreet's github stats](https://github-readme-stats.vercel.app/api?username=Subhampreet&show_icons=true&hide=["issues"])
+<br>
 
 [![HitCount](http://hits.dwyl.com/Subhampreet/Subhampreet.svg)](http://hits.dwyl.com/Subhampreet/Subhampreet)
+
 
 <div align="center">
 
