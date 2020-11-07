@@ -69,7 +69,7 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 <div align="center">
 
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring ⭐ some of the repositories!
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/subhampreet-mohanty-534b9b1a9/)
