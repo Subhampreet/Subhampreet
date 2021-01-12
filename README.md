@@ -59,8 +59,6 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 <br>
 
-[![HitCount](http://hits.dwyl.com/Subhampreet/Subhampreet.svg)](http://hits.dwyl.com/Subhampreet/Subhampreet)
-
 <div align="center">
 
 
