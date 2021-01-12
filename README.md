@@ -53,7 +53,7 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Subhampreet&show_icons=true&hide_border=true" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=Subhampreet&show_icons=true&hide_border=true" width="40%" align="right" >
 
 <div width="35%" align="left">
   
