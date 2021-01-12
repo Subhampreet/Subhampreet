@@ -53,13 +53,11 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Subhampreet&show_icons=true&hide_border=true" width="40%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=Subhampreet&show_icons=true&hide_border=true" width="45%" align="right" >
 
-<div width="35%" align="left">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Subhampreet&theme=dark)](https://github.com/Subhampreet/github-readme-streak-stats)
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Subhampreet&theme=dark" width="45%" align="right" >
 
-</div>
+<br>
 
 [![HitCount](http://hits.dwyl.com/Subhampreet/Subhampreet.svg)](http://hits.dwyl.com/Subhampreet/Subhampreet)
 
