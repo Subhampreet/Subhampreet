@@ -76,7 +76,6 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 </div>
 
 
-![](https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/footer.png)
 
 
 
