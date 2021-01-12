@@ -59,7 +59,7 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 </div>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Subhampreet&show_icons=true&hide_border=true" width="50%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=Subhampreet&show_icons=true&hide_border=true" width="45%" >
 
 [![HitCount](http://hits.dwyl.com/Subhampreet/Subhampreet.svg)](http://hits.dwyl.com/Subhampreet/Subhampreet)
 
