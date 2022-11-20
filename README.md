@@ -51,6 +51,8 @@ A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 <br >
 
+<br >
+
 ## 🏆 Github Status
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Subhampreet&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
@@ -63,6 +65,8 @@ A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 [![@subhampreet's Holopin board](https://holopin.io/api/user/board?user=subhampreet)](https://holopin.io/@subhampreet)
 
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" >
+  
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
 
