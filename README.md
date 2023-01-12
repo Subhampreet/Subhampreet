@@ -63,7 +63,7 @@ A 24 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
 
 <div align="center">
 
-[![@subhampreet's Holopin board](https://holopin.io/api/user/board?user=subhampreet)](https://holopin.io/@subhampreet)
+<!-- [![@subhampreet's Holopin board](https://holopin.io/api/user/board?user=subhampreet)](https://holopin.io/@subhampreet) -->
 
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" >
   
