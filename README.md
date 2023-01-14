@@ -13,7 +13,7 @@ A 24 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning .NET Core, and DevOps
+- 🌱 I’m currently learning .NET Core, Blockchain and DevOps
 - 👯 I’m looking to collaborate on MERN, .NET projects and Basic Web Dev stuff
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/_the.odist_) 
 - 😄 Pronouns: he/him/his
