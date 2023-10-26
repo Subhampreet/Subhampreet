@@ -64,6 +64,7 @@ A 24 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
 <div align="center">
 
 <br>
+<br>
 
 
 [![An image of @subhampreetmohanty's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhampreetmohanty)](https://holopin.io/@subhampreetmohanty)
