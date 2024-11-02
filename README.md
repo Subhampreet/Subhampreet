@@ -4,8 +4,7 @@
 
 <h3 align="center">I'm a Software and Web Developer from India ❤</h3>
   
-A 25 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
-
+I'm Subhampreet, a Front-End Developer who transforms creative ideas into pixel-perfect, user-friendly web experiences. With an eye for design and a knack for code, I specialize in building dynamic, responsive interfaces that feel as good as they look.
 
 ![age](https://img.shields.io/badge/age-25-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
