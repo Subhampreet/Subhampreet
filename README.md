@@ -13,7 +13,7 @@ I'm Subhampreet, a Front-End Developer who transforms creative ideas into pixel-
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m currently learning .NET Core, Blockchain and DevOps 
-- 👯 I’m looking to collaborate on MERN, .NET projects and Basic Web Dev stuff
+- 👯 I’m looking to collaborate on React, .NET projects and Basic Web Dev stuff
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/_the.odist_) 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
