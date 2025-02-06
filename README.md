@@ -56,7 +56,7 @@ I'm Subhampreet, a Front-End Developer who transforms creative ideas into pixel-
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Subhampreet&show_icons=true&theme=radical" width="45%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Subhampreet&theme=dark" width="45%" >
+<img src="https://streak-stats.demolab.com/?user=Subhampreet&theme=dark" width="45%" >
 
 <br>
 
