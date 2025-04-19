@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center"> नमस्ते (Namaste), I'm Subhampreet Mohanty 🦊 ! </h1>
+<h1 align="center"> Hello, I'm Subhampreet Mohanty 🦊 ! </h1>
 
 <h3 align="center">I'm a Software and Web Developer from India ❤</h3>
   
