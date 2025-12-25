@@ -6,7 +6,7 @@
   
 I'm Subhampreet, a Front-End Developer who transforms creative ideas into pixel-perfect, user-friendly web experiences. With an eye for design and a knack for code, I specialize in building dynamic, responsive interfaces that feel as good as they look.
 
-![age](https://img.shields.io/badge/age-26-blue)
+![age](https://img.shields.io/badge/age-27-blue)
 ![focus](https://img.shields.io/badge/focus-Frontend-brightgreen)
 ![living](https://img.shields.io/badge/living-Bangalore-3c9)
 
